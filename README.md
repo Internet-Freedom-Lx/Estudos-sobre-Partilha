@@ -8,7 +8,7 @@ Aqui reunimos um conjunto de resumos de estudos e relatórios sobre direitos de 
 * [O Impacto Económico da Pirataria Informática em Portugal](microsoft-2012.md) (Microsoft, 2012, Católica)
 * [Estudo do Setor de Edição e Livrarias e Dimensão do Mercado da Cópia Ilegal](apel-2012.md) [[ipfs](ipfs://QmRFYCC8kcYaxLWsHG1878kuWtLJUmvXfipsFU8wVvhoio)] (APEL, 2012)
 * [Hábitos de realização de gravações de media](agecop-2016.md) (AGECOP, 2016)
-* [Eficácia do bloqueio de sites em Portugal (pdf)](gedipe-2017.md) [[ipfs](QmSDmQioPY856snbfhtCDuvpN188ZLagxunyM2nkYQWwLU)] (GEDIPE, 2017)
+* [Eficácia do bloqueio de sites em Portugal](gedipe-2017.md) [[ipfs](QmSDmQioPY856snbfhtCDuvpN188ZLagxunyM2nkYQWwLU)] (GEDIPE, 2017)
 
 ## Outros estudos e teses ainda não analisados
 
