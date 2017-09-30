@@ -1,4 +1,5 @@
-# Estudos-sobre-Partilha
-Resumos dos Estudos sobre a Partilha de Ficheiros
+# Estudos Portugueses sobre Partilha de Ficheiros
 
-O pad é este: https://hackmd.io/OwJgLAbAJgRgZsAtABgKwEYqLCAplgTgLDEXRggGZcjUBjZSuIA=
+Pretende-se elaborar um resumo dos Estudos Portugueses sobre a Partilha de Ficheiros.
+
+Por enquanto, este trabalho está a ser realizado neste pad:  https://hackmd.io/OwJgLAbAJgRgZsAtABgKwEYqLCAplgTgLDEXRggGZcjUBjZSuIA=
