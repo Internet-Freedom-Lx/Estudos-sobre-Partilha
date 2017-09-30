@@ -1,4 +1,5 @@
 
+[Eficácia do bloqueio de sites em Portugal (GEDIPE, 2017)](https://www.gedipe.org/website/images/gedipe/pdf/incopro_pt.pdf)
 
 
 
