@@ -1,6 +1,6 @@
 # Análise do estudo da Microsoft (2012)
 
-Este documento é uma análise do estudo "[O Impacto Económico da Pirataria Informática em Portugal](http://www.clsbe.lisboa.ucp.pt/system/files/assets/files/relatorio_pirataria.pdf)" (ASSOFT, 2012, Católica), enquadrado na [análise de estudos Portugueses sobre Partilha de ficheiros](https://github.com/Internet-Freedom-Lx/Estudos-sobre-Partilha]).
+Este documento é uma análise do estudo "[O Impacto Económico da Pirataria Informática em Portugal](http://www.clsbe.lisboa.ucp.pt/system/files/assets/files/relatorio_pirataria.pdf)" (ASSOFT, 2012, Católica), enquadrado na [análise de estudos Portugueses sobre Partilha de ficheiros](https://github.com/Internet-Freedom-Lx/Estudos-sobre-Partilha).
 
 ## O Impacto Económico da Pirataria Informática em Portugal
 
