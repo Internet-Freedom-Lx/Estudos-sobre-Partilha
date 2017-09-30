@@ -1,5 +1,5 @@
 # Estudo AGECOP maio 2016
-(Hábitos de Realização de Gravações de Media)[http://www.agecop.pt/pdf/estudo.pdf]
+[Hábitos de Realização de Gravações de Media](http://www.agecop.pt/pdf/estudo.pdf)
 
 # Introdução
 >Um parágrafo de introdução, a explicar o tema, objetivos e contexto do estudo, e outro sobre a entidade responsável e quem o encomenda e quem o elabora.
