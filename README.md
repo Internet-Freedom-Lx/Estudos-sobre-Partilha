@@ -19,6 +19,7 @@ Aqui reunimos um conjunto de resumos de estudos e relatórios sobre direitos de 
 ### Lá fora
 
 * [Media Piracy in Emerging Economies](http://piracy.americanassembly.org/wp-content/uploads/2011/06/MPEE-PDF-1.0.4.pdf) (2011)
+* [EU Study On Piracy](https://netzpolitik.org/wp-upload/2017/09/displacement_study.pdf) (2014) - estudo financiado pela UE, no valor de 380,000€ e escondido do publico. Descoberto por [Julia Reda](https://juliareda.eu/2017/09/secret-copyright-infringement-study/)
 
 #### Outras listas
 
